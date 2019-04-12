@@ -1,5 +1,8 @@
 _repo: The-Pacifists_59243
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59243-h/images/cover.jpg
 creator:
   author:
     agent_name: Fritch, Charles E.
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '33342'
     url: http://www.gutenberg.org/2009/agents/33342
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59243#The-Pacifists
 gutenberg_issued: '2019-04-10'
 gutenberg_type: Text
 identifiers:
