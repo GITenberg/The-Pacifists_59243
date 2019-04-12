@@ -1,0 +1,22 @@
+_repo: The-Pacifists_59243
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fritch, Charles E.
+    birthdate: 1927
+    deathdate: 2012
+    gutenberg_agent_id: '33342'
+    url: http://www.gutenberg.org/2009/agents/33342
+description: ''
+gutenberg_issued: '2019-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59243'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Pacifists
+url: http://www.gutenberg.org/ebooks/59243
